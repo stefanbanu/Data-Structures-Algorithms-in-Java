@@ -7,7 +7,9 @@ public class App {
 		Stack myStack = new Stack(10);
 
 		System.out.println("test master");
-		
+
+		System.out.println("test master");
+
 		/*myStack.push(20);
 		myStack.push(40);
 		myStack.push(60);
