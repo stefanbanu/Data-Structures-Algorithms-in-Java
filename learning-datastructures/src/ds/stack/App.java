@@ -5,8 +5,8 @@ public class App {
 	public static void main(String[] args) {
 		
 		Stack myStack = new Stack(10);
-		
-		
+
+		System.out.println("test master");
 		
 		/*myStack.push(20);
 		myStack.push(40);
