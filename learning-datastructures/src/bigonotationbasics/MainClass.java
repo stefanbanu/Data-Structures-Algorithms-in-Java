@@ -9,6 +9,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		System.out.println("new stuff");
+		System.out.println("new stuff");
 
 		constantComplexity(new int[]{5, 3, 7, 9}, 2);
 		linearComplexity(new int[]{5, 3, 7, 9});
