@@ -8,12 +8,7 @@ public class App {
 
 		System.out.println("test master");
 
-		System.out.println("test master");
 
-		/*myStack.push(20);
-		myStack.push(40);
-		myStack.push(60);
-		myStack.push(80);*/
 		
 		while(!myStack.isEmpty()){
 			long val = myStack.pop();
