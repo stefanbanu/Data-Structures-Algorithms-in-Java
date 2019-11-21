@@ -12,6 +12,8 @@ public class MainClass {
 		constantComplexity(new int[]{5, 3, 7, 9}, 2);
 		linearComplexity(new int[]{5, 3, 7, 9});
 		quadraticComplexity(new int[]{5, 3, 7, 9}, new int[]{5, 3, 7, 9});
+
+		System.out.println("test");
 		
 	}
 	
